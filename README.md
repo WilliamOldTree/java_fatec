@@ -5,6 +5,8 @@
 - [x] Codicionais e estruturas de reptição
 - [x] Vetores
 - [x] Matrizes
+- [x] Modulos
+- [x] Funções 
  
 ## Programação orientada a objetos
 - [x] Classes, atributos e metodos
