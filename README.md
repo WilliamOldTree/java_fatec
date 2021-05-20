@@ -10,3 +10,10 @@
  
 ## Programação orientada a objetos
 - [x] Classes, atributos e metodos
+- [x] Estrutura de um BCE tradicional
+
+## JAVAFX
+- [x] Construção de telas
+- [x] Conceitos de Grid, Scene, Buttom, Label e TextField
+- [x] Construção das telas por códigos  
+
