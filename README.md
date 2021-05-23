@@ -1,12 +1,19 @@
 # Repositorio com exercicios das aulas em JAVA
 
-## Logica de Programação
-- [x] Variaveis
-- [x] Codicionais e estruturas de reptição
-- [x] Vetores
-- [x] Matrizes
-- [x] Modulos
-- [x] Funções 
+### *_Logica de Programação_*
+- [:heavy_check_mark:] Variaveis
+- [:heavy_check_mark:] Codicionais e estruturas de reptição
+- [:heavy_check_mark:] Vetores
+- [:heavy_check_mark:] Matrizes
+- [:heavy_check_mark:] Modulos
+- [:heavy_check_mark:] Funções 
  
-## Programação orientada a objetos
-- [x] Classes, atributos e metodos
+### *_Programação orientada a objetos_*
+- [:heavy_check_mark:] Classes, atributos e metodos
+- [:heavy_check_mark:] Estrutura de um BCE tradicional
+
+### *_JAVAFX_*
+- [:heavy_check_mark:] Construção de telas
+- [:heavy_check_mark:] Conceitos de Grid, Scene, Buttom, Label e TextField
+- [:heavy_check_mark:] Construção das telas por códigos  
+
