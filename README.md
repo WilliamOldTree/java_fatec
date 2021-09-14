@@ -12,7 +12,7 @@
 - [:heavy_check_mark:] Classes, atributos e metodos
 - [:heavy_check_mark:] Estrutura de um BCE tradicional
 
-### *_JAVAFX_*
+### *_JavaFX_*
 - [:heavy_check_mark:] Construção de telas
 - [:heavy_check_mark:] Conceitos de Grid, Scene, Buttom, Label e TextField
 - [:heavy_check_mark:] Construção das telas por códigos  
